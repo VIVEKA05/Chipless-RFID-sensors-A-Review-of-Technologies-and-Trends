@@ -1,8 +1,7 @@
-Chipless-RFID-sensors-A-Review-of-Technologies-and-Trends
+# Chipless-RFID-sensors-A-Review-of-Technologies-and-Trends
 
 ---
 
-## 🏷 Project Labels
 
 ![Domain](https://img.shields.io/badge/Domain-Embedded%20Systems-blue)
 ![Application](https://img.shields.io/badge/Application-Real--Time%20Monitoring-success)
